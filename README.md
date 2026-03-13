@@ -77,22 +77,22 @@ Next Goal:
 ---
 ### Day 5 (March 13, 2026)
 Solved:
--Solve Me First (HackerRank) – addition of two numbers
--Simple Array Sum (HackerRank) – sum of array elements
--Find Maximum and Minimum in an Array
--Remove Duplicates from a List
--Alternating Positive and Negative Numbers in an Array
--Pattern printing using while loop
+- Solve Me First (HackerRank) – addition of two numbers
+- Simple Array Sum (HackerRank) – sum of array elements
+- Find Maximum and Minimum in an Array
+- Remove Duplicates from a List
+- Alternating Positive and Negative Numbers in an Array
+- Pattern printing using while loop
 
 Learned:
--Different ways to take input in Python (input(), map(), list(), eval())
--Array/List traversal
--Basic list manipulation
--Logic building using loops and conditions
+- Different ways to take input in Python (input(), map(), list(), eval())
+- Array/List traversal
+- Basic list manipulation
+- Logic building using loops and conditions
 
 Next Goal:
--Practice string problems
--Learn searching algorithms (linear search, binary search)
+- Practice string problems
+- Learn searching algorithms (linear search, binary search)
 
 ## Progress Summary
 - Total Problems Solved: **30+**
