@@ -1,107 +1,49 @@
-# Daily Coding Progress Tracker
+10-Day CDPC Training Session by Ashish Gadpayle Sir (March 9 to March 18, 2026)
+This file tracks my daily coding practice and problem-solving journey during the CDPC training program.
 
-This file tracks my daily coding practice and problem-solving journey.
-
----
-
-## Goals
-- Practice Python basics (input/output, loops, conditionals)
-- Solve logic problems (arrays, strings, math)
-- Learn algorithms (sliding window, prefix sum)
-- Build consistency with daily coding
-
----
-
-## Daily Log
-
-### Day 1 (March 9, 2026)
+Goals
+Practice Python basics (input/output, loops, conditionals).
+Solve logic problems (arrays, strings, math).
+Learn algorithms (sliding window, prefix sum).
+Build consistency with daily coding.
+Strengthen understanding of time and space complexity.
+Transition into Python Intermediate Level (functions, modules).
+Daily Log
+Day 1 (March 9, 2026)
+Learned basics of Python (input/output, conditionals, loops).
+Studied time and space complexity from efficient (O(1), O(log n)) to less efficient (O(n²), O(2^n)).
+Next: Practice loops with printing sequences.
+Day 2 (March 10, 2026)
+Solved basic Python problems:
+Addition
+Reversing a number
+Armstrong number check
+Total digit count
+Peterson number
+Learned: modulus operator, digit manipulation.
+Next: Palindrome and more number theory problems.
+Day 3 (March 11, 2026)
+Practiced patterns:
+Number pyramids
+Star patterns
+Learned: nested loops, formatting output.
+Next: Arrays and string manipulation.
+Day 4 (March 12, 2026)
+Solved HackerRank problems.
+Learned: Python lists (creation, indexing, slicing).
+Next: Explore list methods and start with string problems.
+Day 5 (March 13, 2026)
+Solved algorithm-based problems:
+Simple Array Sum
+Find Minimum and Maximum in Array
+Remove Duplicates from Unsorted Array
+Pattern Printing with Skip (using continue)
+Alternate Negative and Positive Arrangement
 Learned:
-- Python basics (input/output, conditionals, loops)
-- Time and Space Complexity
-  - Best: O(1), O(log n)
-  - Average: O(n)
-  - Worst: O(n²), O(2ⁿ)
-
-Next Goal:
-- Practice loops and printing sequences
-
----
-
-### Day 2 (March 10, 2026)
-Solved Problems:
-- Addition
-- Reverse a number
-- Armstrong number
-- Digit count
-- Peterson number
-
-Learned:
-- Modulus operator (%)
-- Digit extraction logic
-
-Next Goal:
-- Palindrome number
-- More number theory problems
-
----
-
-### Day 3 (March 11, 2026)
-Practiced:
-- Star patterns
-- Number pyramids
-
-Learned:
-- Nested loops
-- Output formatting
-
-Next Goal:
-- Arrays
-- String manipulation
-
----
-
-### Day 4 (March 12, 2026)
-Solved:
-- Multiple HackerRank problems
-
-Learned:
-- Python Lists
-  - Creation
-  - Indexing
-  - Slicing
-
-Next Goal:
-- List methods
-- Start string problems
-
----
-### Day 5 (March 13, 2026)
-Solved:
-- Solve Me First (HackerRank) – addition of two numbers
-- Simple Array Sum (HackerRank) – sum of array elements
-- Find Maximum and Minimum in an Array
-- Remove Duplicates from a List
-- Alternating Positive and Negative Numbers in an Array
-- Pattern printing using while loop
-
-Learned:
-- Different ways to take input in Python (input(), map(), list(), eval())
-- Array/List traversal
-- Basic list manipulation
-- Logic building using loops and conditions
-
-Next Goal:
-- Practice string problems
-- Learn searching algorithms (linear search, binary search)
-
-## Progress Summary
-- Total Problems Solved: **30+**
-- Strong In:
-  - Conditionals
-  - Loops
-  - Number-based problems
-
-- Need More Practice:
-  - Arrays
-  - Sliding Window
-  - Prefix Sum
+continue and break statements
+Taking multiple inputs at once using map, split, eval
+Next: Prefix sum problems and sliding window techniques.
+Progress Summary
+Total problems solved: 30+
+Strong in: conditionals, loops, number problems, basic arrays
+Transitioning to: intermediate Python (functions)
