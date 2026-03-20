@@ -1,4 +1,4 @@
-# 10-Day CDPC Training Session by Ashish Gadpayle Sir (March 9 to March 18, 2026)
+# CDPC Training Session by Ashish Gadpayle Sir (March 9,2026 to March 19, 2026)
 
 This file tracks my daily coding practice and problem-solving journey during the CDPC training program.
 
