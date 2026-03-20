@@ -64,6 +64,8 @@ This file tracks my daily coding practice and problem-solving journey during the
 - Next: Prefix sum problems and sliding window techniques.
 
 ---
+### From Day 6 (March 16, 2026) to  Day 9 (March 19, 2026)
+- Solved HackerRank-based problems:
 ---
 
 ## Progress Summary
